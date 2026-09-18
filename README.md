@@ -1,13 +1,5 @@
 
 <div align="center">
-
-
-### BENJAMIN J ALANI
-
-`CREATIVE DEVELOPER` · `BCA GRADUATE` · `DIGITAL BUILDER`
-
-<br>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,100:f0e119&height=180&section=header&text=BJA&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=BUILDING%20DIGITAL%20EXPERIENCES&descAlignY=65&descSize=15&descColor=f0e119" width="100%"/>
 
 </div>
@@ -33,11 +25,11 @@ My goal is simple:
 │                                             │
 │   B J A  /  DEVELOPER PROFILE               │
 │                                             │
-│   DESIGN        →  CREATE                  │
-│   LOGIC         →  ENGINEER                │
-│   IDEAS         →  BUILD                   │
+│   DESIGN        →  CREATE                   |
+│   LOGIC         →  ENGINEER                 │
+│   IDEAS         →  BUILD                    │
 │                                             │
-│   STATUS: ALWAYS EXPLORING                 │
+│   STATUS: ALWAYS EXPLORING                  │
 │                                             │
 └─────────────────────────────────────────────┘
 ```
