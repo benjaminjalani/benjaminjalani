@@ -8,6 +8,7 @@
 
 ###
 
+<h2 align="left">Profile Views</h2>
 <div data-importer="profile-views" align="center">
   <img data-importer="profile-views" src="https://count.getloli.com/@:maurodesouza?theme=gelbooru&padding=5&offset=05&scale=1&align=top&pixelated=1&darkmode=auto"  />
 </div>
