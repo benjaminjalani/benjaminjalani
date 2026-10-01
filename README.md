@@ -2,6 +2,7 @@
   <img src="banner.png" width="100%" alt="Eat Sleep Code Repeat">
 </p>
 
+```
 <div data-importer="border">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=header&reversal=false&text=BENJAMIN%E2%80%8E%20%E2%80%8E%20J%20%E2%80%8E%20ALANI&fontSize=45&fontColor=FFFF00&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&desc=BCA%20GRADUATE%20%20%E2%80%8E%20%20%E2%80%8E%20%E2%80%A2%20%20%E2%80%8E%20%E2%80%8E%20%20CREATIVE%20%20%E2%80%8E%E2%80%8E%20%20%20%E2%80%A2%20%E2%80%8E%20%E2%80%8E%20%20%20FULL-STACK&descSize=11&descAlign=50&descAlignY=80&textBg=false&color=gradient" width="100%"/>
 </div>
@@ -69,4 +70,4 @@
     <img src="https://img.shields.io/static/v1?message=Spotify&logo=spotify&label=&color=000000&logoColor=1DB954&labelColor=&style=for-the-badge" height="20" alt="spotify logo"  />
 </div>
 
-###
+###```
